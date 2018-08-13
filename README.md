@@ -2,7 +2,7 @@
 
 # <a href="https://softuni.bg/trainings/1826/programming-basics-with-csharp-january-2018" rel="Programming-Basics"><p align="center"> Programming-Basics <p></a>
 
-## <a href="https://softuni.bg/certificates/details/52126/7aa51e16" > CERTIFICATE </a>
+## <a href="https://softuni.bg/certificates/details/52126/7aa51e16" ><p align="center"> CERTIFICATE <p></a>
 
 ## PROGRAM
 <table>
